@@ -1,0 +1,8 @@
+medspacy
+spacy
+PyMuPDF
+tqdm
+regex
+PyMuPDF4LLM
+markdown
+reportlab
