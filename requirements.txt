@@ -1,8 +1,7 @@
 medspacy
 spacy
-PyMuPDF
+PyMuPDF>=1.18.0
 tqdm
 regex
-PyMuPDF4LLM
-markdown
-reportlab
+transformers>=4.30.0
+torch>=2.0.0
