@@ -1,4 +1,4 @@
-# CADIS PHI Detector
+# HealthCare PHI Detector
 
 A state-of-the-art Protected Health Information (PHI) deidentification tool for medical documents, powered by **ClinicalBERT** deep learning and multi-layer detection.
 
